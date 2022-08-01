@@ -1,7 +1,7 @@
 # scope2elecsus
 Laser spectroscopy of hot atomic vapours: from ’scope to theoretical fit Notebooks
 
-In the folder 'Notebook_Folder' is the data and Jupyter notebook (python 3) to process the data presented in the paper "Laser spectroscopy of 
+In this folder is the data and Jupyter notebook (python 3) to process the data presented in the paper "Laser spectroscopy of 
 hot atomic vapours: from 'scope to theoretical fit". 
 
 Running the notebook will generate figures 8, 9, 10 and 13. The steps of how to process the data to the form plotted in these 
@@ -16,6 +16,6 @@ Dopp_Broadened_73C Lin.csv : This is the linearised data for the Doppler broaden
 Dopp_Broadened_73C Norm.csv : This is the normalised data for the Doppler broadened spectrum at 73 degrees Celsius.
 Etalon.csv : This is the raw data for the etalon, recorded simultanously with 'Dopp_Broadened_20C.csv' above.
 Sub_Doppler Spectrum.csv : This is the raw data for the sub-Doppler spectrum, recorded simultanously with 'Dopp_Broadened_20C.csv' above.
-Notebook_Tutorial.ipynb : A Jupyter notebook (python 3) to process the data above and output figures 8, 9, 10 and 13.
+Notebook_Tutorial.ipynb : A Jupyter notebook (python 3) to process the data above and output figures 8, 9, 10 and 13. The Jupyter notebook takes the reader step-by step through the data processing from raw data obtained from an osciliscope to a state in which it can be compared with theory.
 
 More details can be found at: https://github.com/durham-qlm/scope2elecsus
