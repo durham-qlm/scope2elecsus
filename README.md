@@ -38,11 +38,15 @@ Notebook_Tutorial.ipynb : A Jupyter notebook (python 3) to process the data abov
 
 # References
 Laser spectroscopy of hot atomic vapours: from ’scope to theoretical fit
+
 Notebook Download: https://github.com/durham-qlm/scope2elecsus
+
 Paper: XXX (Not yet published)
 
 ElecSus
   Download: https://github.com/durham-qlm/ElecSus
+  
   Papers: https://www.sciencedirect.com/science/article/pii/S001046551400407X 
+  
   https://www.sciencedirect.com/science/article/pii/S0010465517304009
 
