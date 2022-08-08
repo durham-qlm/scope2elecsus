@@ -37,16 +37,14 @@ Sub_Doppler Spectrum.csv : This is the raw data for the sub-Doppler spectrum, re
 Notebook_Tutorial.ipynb : A Jupyter notebook (python 3) to process the data above and output figures 8, 9, 10 and 13. The Jupyter notebook takes the reader step-by step through the data processing from raw data to a state in which it can be compared with theory.
 
 # References
-Laser spectroscopy of hot atomic vapours: from ’scope to theoretical fit
 
 Notebook Download: https://github.com/durham-qlm/scope2elecsus
 
-Paper: XXX (Not yet published)
+Tutorial Review Paper: XXX (Not yet published)
 
-ElecSus
-  Download: https://github.com/durham-qlm/ElecSus
+ElecSus Download: https://github.com/durham-qlm/ElecSus
   
-  Papers: https://www.sciencedirect.com/science/article/pii/S001046551400407X 
+ElecSus Paper 1: https://www.sciencedirect.com/science/article/pii/S001046551400407X 
   
-  https://www.sciencedirect.com/science/article/pii/S0010465517304009
+ElecSus Paper 2: https://www.sciencedirect.com/science/article/pii/S0010465517304009
 
